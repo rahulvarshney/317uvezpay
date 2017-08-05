@@ -1,0 +1,1 @@
+return "<h1>Helo, KAT!</h1>", {["Content-Type"]="text/html"}
