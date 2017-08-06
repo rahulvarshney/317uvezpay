@@ -1,1 +1,1 @@
-return "<h1>Helo, KAT U REALLy like WOW🐱!</h1>", {["Content-Type"]="text/html"}
+return "<h1>Helo, KAT U REALLy like how now brown cow!</h1>", {["Content-Type"]="text/html"}
