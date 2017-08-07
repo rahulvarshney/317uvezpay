@@ -1,1 +1,1 @@
-return "<h1>Helo, JUPITER!</h1>", {["Content-Type"]="text/html"}
+return "<h1>Helo, PLUTO!</h1>", {["Content-Type"]="text/html"}
